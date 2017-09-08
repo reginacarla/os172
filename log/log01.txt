@@ -1,0 +1,8 @@
+#Github: reginacarla
+
+ww01-170905-10-LR-About: Protection and Security, From: https://www.gnu.org/gwm/libredocxml/x53.html
+ww01-170905-13-LR-About: Intellectual Property: Patent, Trademark, etc, From: https://yourstory.com/2016/06/difference-trademark-copyright-patent/
+ww01-170907-16-LR-About: Protection and Security, From: Lecturer
+ww01-170907-17-LR-About: GNU/Linux CLI shell, From: Lecturer
+ww01-170908-16-PS-About: GitHub Repository
+
