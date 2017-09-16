@@ -1,0 +1,12 @@
+Github Account : reginacarla
+
+ww02-170910-19-LR-About: Copyright and Copyleft, From: https://www.gnu.org/gwm/libredocxml/x53.html
+ww02-170911--LR-About: Private and Public Key, From: https://bnparte.wordpress.com/2007/07/11/privatepublic-key/
+ww02-170912-16-LR-About: GNU/Linux CLI shell, From: Lecturer
+ww02-170912-17-LR-About: Scrpting shell, From: Lecturer
+ww02-170913-16-PS-About: Lab Excercise
+ww02-170914-20-LR-About: Scripting: Pipe and Redirection, etc, From: ARSIP/Bahan Ajar Lama
+ww02-170914-16-LR-About: C, Sign and Encryption, From: Lecturer
+ww02-170214-17-LR-About: C, SIgn, & encryption, From: Lecturer
+ww02-170916-10-LR-About: Lab Exercise 
+
