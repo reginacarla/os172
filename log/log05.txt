@@ -1,0 +1,11 @@
+#GitHubAccount : reginacarla
+
+ww05-171002-17-LR-About: Binding and Linking, From: file:///C:/Users/USER/Downloads/os05-171.pdf
+ww05-171002-17-LR-About: Virtual & Physical Memory , From: http://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory
+ww05-170302-20-LR-About: Memory, From: Arsip Schilberschatz
+ww05-170303-16-LR-About: Memory Allocation, From: Lecturer
+ww05-170303-17-LR-About: Address Binding, MMU, Multiple Variable, From: Lecturer
+ww05-170304-16-LR-About: Page Table, From: Lecturer
+ww05-170304-17-LR-About: Virtual and Physical Memory, From: Lecturer
+ww05-170306-18-LR-About: I/O Programming Open & Close, From: Lecturer
+
